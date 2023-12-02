@@ -28,10 +28,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aminullah
 
 ## 🎓 Education
 
-- **Bachelor of Computer Science**
-  - *Specialization:* Cyber Security
-  - *Institution:* Albukhary International University, Malaysia
-  - *CGPA:* 3.85/4.00
+- Bachelor of Computer Science
+   - Specialization: Cyber Security
+   - Institution: Albukhary International University, Malaysia
+   - CGPA: 3.85/4.00
   
 ## 🚀 Programming Languages
 ![C](https://img.shields.io/badge/C-Expert-yellow) ![Java](https://img.shields.io/badge/Java-Advanced-orange) ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
