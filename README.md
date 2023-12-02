@@ -12,6 +12,8 @@
 <h3 align="center">Favoutre Languages and Tools:</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyber-aminullah&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="cyber-aminullah"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-aminullah&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="cyber-aminullah"/></p>
  
 ## About Me
 
