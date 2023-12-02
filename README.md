@@ -87,7 +87,7 @@ This Java program is an Employee Management System that takes user input for det
 
 ## Connect with Me
 
-- [!LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aminullah-sheikh/)
+- [LinkedIn](https://www.linkedin.com/in/aminullah-sheikh/)
 - [GitHub](https://github.com/cyber-aminullah)
 - [Twitter](https://twitter.com/Aminullah240)
 
