@@ -39,7 +39,7 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Java
 - Python
 
-**Tools:**
+**Tools And Applications:**
 - Linux
 - Burp Suite
 - OWASP Zap
@@ -47,6 +47,9 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Nessus
 - Acunetix
 - Nmap
+- Word
+- Powerpoint
+- Excel
   
 ## GitHub Stats
 
