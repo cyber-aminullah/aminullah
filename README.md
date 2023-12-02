@@ -66,6 +66,9 @@ This Java program is an Employee Management System that takes user input for det
 - Hall of Fame Paynet Security Testing
 - Hall of Fame Synergie Security Testing
 - Dean's List Award Semesters 1, 2, and 3
+- Champion Men Doubles Badminton Tournament, AIUBC
+- Runner Up Men Singles Badminton Tournament, AIUBC
+- Runner Up Men Doubles Badminton Tournament, PPI AIU
 - Champion Sustainability and Society Group Project
 
 ## Connect with Me
