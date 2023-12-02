@@ -56,9 +56,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aminullah
 - ![Video Editing](https://img.shields.io/badge/Video%20Editing-Advanced-green)
 
 
-## Tools And Applications
-### 🔧 Tools and Software
+## 🔧 Tools and Software
 
+### 🔒 Security Tools
 - ![Linux](https://img.shields.io/badge/Linux-Expert-green)
 - ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-red)
 - ![OWASP Zap](https://img.shields.io/badge/OWASP%20Zap-Advanced-blue)
