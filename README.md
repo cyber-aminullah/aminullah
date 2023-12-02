@@ -44,6 +44,8 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Digital Forensics
 - Network Security
 - Cryptography
+- Graphics Design
+- Video Editing
 
 ## Tools And Applications
 - Linux
@@ -56,6 +58,8 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Word
 - Powerpoint
 - Excel
+- Filmora
+- Canva
   
 ## My Top Projects
 
