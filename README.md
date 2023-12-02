@@ -29,7 +29,12 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Specialization: Cyber Security
 - Albukhary International University, Malaysia
 - CGPA: 3.85/4.00
-
+  
+## Programming Languages
+- C
+- Java
+- Python
+  
 ## My Skills
 
 - Web Application Security
@@ -40,12 +45,7 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Network Security
 - Cryptography
 
-**Programming Languages:**
-- C
-- Java
-- Python
-
-**Tools And Applications:**
+## Tools And Applications
 - Linux
 - Burp Suite
 - OWASP Zap
@@ -81,10 +81,10 @@ This Java program is an Employee Management System that takes user input for det
 
 ## Honors and Awards
 
+- Dean's List Award Semesters 1, 2, and 3
 - Hall of Fame Louis Vuitton Security Testing
 - Hall of Fame Paynet Security Testing
 - Hall of Fame Synergie Security Testing
-- Dean's List Award Semesters 1, 2, and 3
 - Champion Men Doubles Badminton Tournament, AIUBC
 - Runner Up Men Singles Badminton Tournament, AIUBC
 - Runner Up Men Doubles Badminton Tournament, PPI AIU
