@@ -34,9 +34,7 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Metasploit Framework
 - Nessus
 - Acunetix
-- Nmap, Naabu
-- Sqlmap, Ghauri
-- Nuclei, Httpx, Httprobe
+- Nmap
   
 ## GitHub Stats
 
