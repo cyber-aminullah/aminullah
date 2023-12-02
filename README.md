@@ -34,54 +34,127 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aminullah
   - *CGPA:* 3.85/4.00
   
 ## Programming Languages
-![C](https://img.shields.io/badge/C-Expert-yellow)
-![Java](https://img.shields.io/badge/Java-Advanced-orange)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![C](https://img.shields.io/badge/C-Expert-yellow) ![Java](https://img.shields.io/badge/Java-Advanced-orange) ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
   
 ## My Skills
 
 ### 💻 Cybersecurity
 
-- ![Web Application Security](https://img.shields.io/badge/Web%20App%20Security-Expert-green)
-- ![Android Application Security](https://img.shields.io/badge/Android%20App%20Security-Advanced-red)
-- ![OSINT](https://img.shields.io/badge/OSINT-Specialist-blue)
-- ![Steganography](https://img.shields.io/badge/Steganography-Expert-green)
-- ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-Advanced-red)
-- ![Network Security](https://img.shields.io/badge/Network%20Security-Expert-blue)
-- ![Cryptography](https://img.shields.io/badge/Cryptography-Advanced-yellow)
+ ![Web Application Security](https://img.shields.io/badge/Web%20App%20Security-Expert-green)  ![Android Application Security](https://img.shields.io/badge/Android%20App%20Security-Advanced-red) ![OSINT](https://img.shields.io/badge/OSINT-Specialist-blue) ![Steganography](https://img.shields.io/badge/Steganography-Expert-green) ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-Advanced-red) ![Network Security](https://img.shields.io/badge/Network%20Security-Expert-blue) ![Cryptography](https://img.shields.io/badge/Cryptography-Advanced-yellow)
 
 ### 🎨 Multimedia
-
-- ![Graphics Design](https://img.shields.io/badge/Graphics%20Design-Expert-yellow)
-- ![Video Editing](https://img.shields.io/badge/Video%20Editing-Advanced-green)
+![Graphics Design](https://img.shields.io/badge/Graphics%20Design-Expert-yellow) ![Video Editing](https://img.shields.io/badge/Video%20Editing-Advanced-green)
 
 
 ## 🔧 Tools and Software
 
 ### 🔒 Security Tools
-- ![Linux](https://img.shields.io/badge/Linux-Expert-green)
-- ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-red)
-- ![OWASP Zap](https://img.shields.io/badge/OWASP%20Zap-Advanced-blue)
-- ![Metasploit Framework](https://img.shields.io/badge/Metasploit%20Framework-Expert-green)
-- ![Nessus](https://img.shields.io/badge/Nessus-Advanced-red)
-- ![Acunetix](https://img.shields.io/badge/Acunetix-Advanced-blue)
-- ![Nmap](https://img.shields.io/badge/Nmap-Expert-yellow)
+![Linux](https://img.shields.io/badge/Linux-Expert-green) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-red) ![OWASP Zap](https://img.shields.io/badge/OWASP%20Zap-Advanced-blue) ![Metasploit Framework](https://img.shields.io/badge/Metasploit%20Framework-Expert-green) ![Nessus](https://img.shields.io/badge/Nessus-Advanced-red) ![Acunetix](https://img.shields.io/badge/Acunetix-Advanced-blue) ![Nmap](https://img.shields.io/badge/Nmap-Expert-yellow)
 
 ### 📊 Microsoft Office
 
-- ![Word](https://img.shields.io/badge/Word-Expert-red)
-- ![Powerpoint](https://img.shields.io/badge/Powerpoint-Expert-green)
-- ![Excel](https://img.shields.io/badge/Excel-Advanced-orange)
+ ![Word](https://img.shields.io/badge/Word-Expert-red)  ![Powerpoint](https://img.shields.io/badge/Powerpoint-Expert-green)  ![Excel](https://img.shields.io/badge/Excel-Advanced-orange)
 
 ### 🎥 Multimedia
 
-- ![Filmora](https://img.shields.io/badge/Filmora-Advanced-green)
+ ![Filmora](https://img.shields.io/badge/Filmora-Advanced-green)
 
 ### 🎨 Graphic Design
 
-- ![Canva](https://img.shields.io/badge/Canva-Expert-blue)
+ ![Canva](https://img.shields.io/badge/Canva-Expert-blue)
 
-  
+## 🏆 Honors and Awards
+
+- Dean's List Award:
+  - Semesters: 1, 2, and 3
+
+- Hall of Fame:
+  - Louis Vuitton Security Testing
+  - Paynet Security Testing
+  - Synergie Security Testing
+
+- Badminton Tournaments:
+  - Champion, Men Doubles Badminton Tournament, AIUBC
+  - Runner Up, Men Singles Badminton Tournament, AIUBC
+  - Runner Up, Men Doubles Badminton Tournament, PPI AIU
+
+- Group Project:
+  - Champion, Sustainability and Society Group Project on Health Care System
+
+## 👥 Volunteering
+
+### President 
+**School of Computing and Informatics Community, AIU (SCI)**
+- Duration: Nov 2023 - Present 
+
+### Event and Training 
+**AIU Badminton Club (AIUBC)**
+- Duration: Nov 2022 - Oct 2023 (1 year)
+- Role: Event and Training Coordinator
+  - I played a role in organizing events and training sessions for the Albukhary International University Badminton Club (AIUBC).
+
+### Head of Outdoor Sport 
+**Bangladesh Students Community AIU (BASCA)**
+- Role: Head of Outdoor Sport
+
+### Head of Media 
+**Bangladesh Students Community AIU (BASCA)**
+- Role: Head of Media
+
+## 🏆 Certifications and Courses
+
+### International Competitive Programming and Multimedia Competition
+- **Issued:** Oct 2023
+- **Skills:** Python (Programming Language)
+
+### Nationwide Online Curtin Malaysia Capture the Flag (CTF) Hackathon
+- **Issued:** Oct 2023
+- **Skills:** Steganography · Cryptography · Web Application Security · OSINT · Network Security · Digital Forensics
+
+### Advanced Network Pentesting - Practical Tutorials (Udemy)
+- **Issued:** Jul 2023
+- **Credential ID:** UC-f8c6f10d-b459-4a14-857a-9bf4b62ece03
+- **Skills:** Penetration Testing · Network Security
+
+### Full Ethical Hacking Course by Rahul Tyagi in 2023 (Udemy)
+- **Issued:** Jul 2023
+- **Credential ID:** UC-b152f160-7739-4cd4-a39f-d81af21f60ee
+- **Skills:** Penetration Testing · Ethical Hacking
+
+### Practical Web Application Security and Testing (TCM Security)
+- **Issued:** Jul 2023
+- **Credential ID:** cert_ync5v5m5
+- **Skills:** Vulnerability Assessment · Penetration Testing · Bug Hunter · Web Application Security · OWASP ZAP
+
+### Certificate of Participation Bug Quest Event (BePractical)
+- **Issued:** May 2023
+- **Skills:** Vulnerability Assessment · Penetration Testing · Bug Hunter · Ethical Hacking
+
+### Learn Ethical Hacking From Scratch (Udemy)
+- **Issued:** Feb 2023
+- **Credential ID:** 4bdecfe0-0b24-4bf4-a5b9-02c1ab2c8d8c
+- **Skills:** Ethical Hacking
+
+### Learn Metasploit 5.0 with Rahul Tyagi (Udemy)
+- **Issued:** Jan 2023
+- **Credential ID:** a6462909-44b7-4cf0-bf2f-e9762314bc4c
+- **Skills:** Ethical Hacking
+
+### Certified Ethical Hacking (MSB Academy)
+- **Issued:** Nov 2022
+- **Credential ID:** abc580797807758000e7df684f4287df
+- **Skills:** Ethical Hacking
+
+### Ethical Hacking for Beginners (Simplilearn)
+- **Issued:** Nov 2022
+- **Credential ID:** SvZl4ENqHxb
+- **Skills:** Ethical Hacking
+
+### Ultimate Fiverr Success (MSB Academy)
+- **Issued:** Nov 2022
+- **Credential ID:** 94fe31580f92c1caba8d55903814ef4e
+- **Skills:** Graphic Design
+
 ## My Top Projects
 
 ## Project 1: Library Management System (C)
@@ -105,27 +178,10 @@ This Java program is an Employee Management System that takes user input for det
 ![Urdu](https://img.shields.io/badge/Urdu-Fluent-red)
 
 
-## 🏆 Honors and Awards
 
-- Dean's List Award:
-  - Semesters: 1, 2, and 3
-
-- Hall of Fame:
-  - Louis Vuitton Security Testing
-  - Paynet Security Testing
-  - Synergie Security Testing
-
-- Badminton Tournaments:
-  - Champion, Men Doubles Badminton Tournament, AIUBC
-  - Runner Up, Men Singles Badminton Tournament, AIUBC
-  - Runner Up, Men Doubles Badminton Tournament, PPI AIU
-
-- Group Project:
-  - Champion, Sustainability and Society Group Project on Health Care System
 
 
 ## Connect with Me
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aminullah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aminullah-sheikh/)
 [![GitHub](https://img.shields.io/badge/GitHub-Aminullah-green?style=for-the-badge&logo=github)](https://github.com/cyber-aminullah-)
