@@ -66,7 +66,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aminullah
 ## 🏆 Honors and Awards
 
 - Dean's List Award:
-  - Semesters: 1, 2, and 3
+  - Semesters: 1
+  - Semesters: 2
+  - Semesters: 3
 
 - Hall of Fame:
   - Louis Vuitton Security Testing
