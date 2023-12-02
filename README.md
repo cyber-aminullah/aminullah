@@ -184,7 +184,7 @@ This Java program is an Employee Management System that takes user input for det
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aminullah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aminullah-sheikh/)
-[![GitHub](https://img.shields.io/badge/GitHub-Aminullah-green?style=for-the-badge&logo=github)](https://github.com/cyber-aminullah-)
+[![GitHub](https://img.shields.io/badge/GitHub-Aminullah-green?style=for-the-badge&logo=github)](https://github.com/cyber-aminullah)
 [![Twitter](https://img.shields.io/badge/Twitter-Aminullah-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Aminullah240)
 
 Feel free to explore my repositories and reach out for collaboration or discussions. Happy coding! 🚀
