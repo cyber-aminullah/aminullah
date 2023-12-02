@@ -19,8 +19,6 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Steganography
 - Digital Forensics
 - Network Security
-- Reverse Engineering
-- Binary Exploitation
 
 **Programming Languages:**
 - C
