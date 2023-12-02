@@ -4,7 +4,7 @@
 
 I'm a passionate penetration tester and security researcher with a strong background in web application security, cryptography, OSINT, steganography, digital forensics, and network security. I hold a Bachelor's degree in Computer Science with a specialization in Cyber Security.
 
-- 🔭 I’m currently working on enhancing my skills in *Penetration Testing*.
+- 🔭 I’m currently working on enhancing my skills in **Penetration Testing**.
 - 🌱 I’m always learning and staying updated on the latest security threats.
 - 💬 Ask me about anything related to cyber security and badminton!
 - 📫 How to reach me: [smaminullah24@gmail.com
@@ -46,10 +46,9 @@ This C code is a simple library management system that allows users to perform v
 
 ### Project 2: [Employee Management System]
 
-Brief description of the project, its purpose, and your role in it.
+This Java program is an Employee Management System that takes user input for details of multiple employees, including their ID, name, and basic salary. It calculates additional components such as allowances, Employee Provident Fund (EPF) savings, and net pay based on predefined rules.
 
-- **GitHub Repo:** [Link to the GitHub repository]
-- **Demo/Deployed Version:** [Link to the deployed version, if applicable]
+- **GitHub Repo:** [[Link to the GitHub repository](https://github.com/cyber-aminullah/Java/blob/main/EmployeeManagementSystem.java)]
 
 ## GitHub Activity
 
