@@ -54,17 +54,17 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 
 ## My Top Projects
 
-### Project 1: Library Management System]
+### Project 1: Library Management System
 
 This C code is a simple library management system that allows users to perform various operations such as adding book information, displaying book information, listing all books of a given author, listing the details of a specified book, listing the count of books in the library, and exiting the program., its purpose is to manage library system very perfectly, and my role in it is a programmer.
 
-- **GitHub Repo:** [[Link to the GitHub repository](https://github.com/cyber-aminullah/C-Programming/blob/main/library-management-system.c)]
+- **GitHub Repo:** [Link to the GitHub repository](https://github.com/cyber-aminullah/C-Programming/blob/main/library-management-system.c)
 
-### Project 2: [Employee Management System]
+### Project 2: Employee Management System
 
 This Java program is an Employee Management System that takes user input for details of multiple employees, including their ID, name, and basic salary. It calculates additional components such as allowances, Employee Provident Fund (EPF) savings, and net pay based on predefined rules.
 
-- **GitHub Repo:** [[Link to the GitHub repository](https://github.com/cyber-aminullah/Java/blob/main/EmployeeManagementSystem.java)]
+- **GitHub Repo:** [Link to the GitHub repository](https://github.com/cyber-aminullah/Java/blob/main/EmployeeManagementSystem.java)
 
 
 ## Languages
