@@ -20,7 +20,7 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 
 - 🔭 I’m currently working on enhancing my skills in **Penetration Testing**.
 - 🌱 I’m always learning and staying updated on the latest security threats.
-- 💬 Ask me about anything related to cyber security and badminton!
+- 💬 Ask me about anything related to cyber security!
 - 📫 How to reach me: **smaminullah24@gmail.com**
 
 ## Education
