@@ -56,10 +56,6 @@ This Java program is an Employee Management System that takes user input for det
 
 - **GitHub Repo:** [[Link to the GitHub repository](https://github.com/cyber-aminullah/Java/blob/main/EmployeeManagementSystem.java)]
 
-## GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## Languages
 
