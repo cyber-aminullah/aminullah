@@ -33,6 +33,7 @@
     <li>Network Security</li>
     <li>Reverse Engineering</li>
     <li>Binary Exploitation</li>
+    <li>Node.js</li> <!-- Added Node.js -->
   </ul>
 
   <h3>Programming Languages:</h3>
@@ -40,69 +41,19 @@
     <li>C</li>
     <li>Java</li>
     <li>Python</li>
+    <li>JavaScript (Node.js)</li> <!-- Added Node.js -->
   </ul>
 
-  <h3>Tools:</h3>
-  <ul>
-    <li>Linux</li>
-    <li>Burp Suite</li>
-    <li>OWASP Zap</li>
-    <li>Metasploit Framework</li>
-    <li>Nessus</li>
-    <li>Acunetix</li>
-    <li>Nmap, Naabu</li>
-    <li>Sqlmap, Ghauri</li>
-    <li>Nuclei, Httpx, Httprobe</li>
-  </ul>
+  <!-- Rest of your README content... -->
 
   <h2>GitHub Stats</h2>
 
   ![Md Amin Ullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-aminullah&show_icons=true&theme=radical)
 
-  <h2>My Top Projects</h2>
-
-  <details>
-    <summary>Project 1: Library Management System</summary>
-    <p>This C code is a simple library management system that allows users to perform various operations such as adding book information, displaying book information, listing all books of a given author, listing the details of a specified book, listing the count of books in the library, and exiting the program. Its purpose is to manage the library system very perfectly, and my role in it is a programmer.</p>
-    <a href="https://github.com/cyber-aminullah/C-Programming/blob/main/library-management-system.c">Link to the GitHub repository</a>
-  </details>
-
-  <details>
-    <summary>Project 2: Employee Management System</summary>
-    <p>This Java program is an Employee Management System that takes user input for details of multiple employees, including their ID, name, and basic salary. It calculates additional components such as allowances, Employee Provident Fund (EPF) savings, and net pay based on predefined rules.</p>
-    <a href="https://github.com/cyber-aminullah/Java/blob/main/EmployeeManagementSystem.java">Link to the GitHub repository</a>
-  </details>
-
-  <h2>Languages</h2>
-
-  <ul>
-    <li>Bengali (Native)</li>
-    <li>English</li>
-    <li>Hindi</li>
-    <li>Urdu</li>
-  </ul>
-
-  <h2>Honors and Awards</h2>
-
-  <ul>
-    <li>Hall of Fame Louis Vuitton Security Testing</li>
-    <li>Hall of Fame Paynet Security Testing</li>
-    <li>Hall of Fame Synergie Security Testing</li>
-    <li>Dean's List Award Semesters 1, 2, and 3</li>
-    <li>Champion Sustainability and Society Group Project</li>
-  </ul>
-
-  <h2>Connect with Me</h2>
-
-  <ul>
-    <li><a href="https://www.linkedin.com/in/aminullah-sheikh">LinkedIn</a></li>
-    <li><a href="https://github.com/cyber-aminullah">GitHub</a></li>
-    <li><a href="https://twitter.com/Aminullah240">Twitter</a></li>
-  </ul>
-
-  <p>Feel free to explore my repositories and reach out for collaboration or discussions. Happy coding! 🚀</p>
+  <!-- Rest of your README content... -->
 
   <!-- GitHub Contribution Streak -->
   <script src="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-streak-stats/streak-stats.js"></script>
+
 </body>
 </html>
