@@ -22,18 +22,18 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - 🔭 I’m currently working on enhancing my skills in **Penetration Testing**.
 - 🌱 I’m always learning and staying updated on the latest security threats.
 - 💬 Ask me about anything related to cyber security and badminton!
-- 📫 How to reach me: [smaminullah24@gmail.com
-]
+- 📫 How to reach me: **smaminullah24@gmail.com**
+
 
 ## My Skills
 
 - Web Application Security
 - Android Application Security
-- Cryptography
 - OSINT (Open-Source Intelligence)
 - Steganography
 - Digital Forensics
 - Network Security
+- Cryptography
 
 **Programming Languages:**
 - C
