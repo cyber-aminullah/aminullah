@@ -13,6 +13,7 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 ## My Skills
 
 - Web Application Security
+- Android Application Security
 - Cryptography
 - OSINT (Open-Source Intelligence)
 - Steganography
