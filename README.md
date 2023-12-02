@@ -51,10 +51,6 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Powerpoint
 - Excel
   
-## GitHub Stats
-
-![Md Amin Ullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-aminullah&show_icons=true&theme=radical)
-
 ## My Top Projects
 
 ### Project 1: Library Management System
