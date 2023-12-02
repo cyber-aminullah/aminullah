@@ -23,6 +23,11 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - 💬 Ask me about anything related to cyber security and badminton!
 - 📫 How to reach me: **smaminullah24@gmail.com**
 
+## Education
+
+- Bachelor of Computer Science  
+- Albukhary International University, Malaysia
+- CGPA: 3.85/4.00
 
 ## My Skills
 
