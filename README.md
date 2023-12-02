@@ -25,7 +25,8 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 
 ## Education
 
-- Bachelor of Computer Science  
+- Bachelor of Computer Science
+- Specialization: Cyber Security
 - Albukhary International University, Malaysia
 - CGPA: 3.85/4.00
 
