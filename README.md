@@ -4,7 +4,7 @@
 
 I'm a passionate penetration tester and security researcher with a strong background in web application security, cryptography, OSINT, steganography, digital forensics, and network security. I hold a Bachelor's degree in Computer Science with a specialization in Cyber Security.
 
-- 🔭 I’m currently working on enhancing my skills in [your current focus].
+- 🔭 I’m currently working on enhancing my skills in [Penetration Testing].
 - 🌱 I’m always learning and staying updated on the latest security threats.
 - 💬 Ask me about anything related to cyber security and badminton!
 - 📫 How to reach me: [smaminullah24@gmail.com
@@ -38,14 +38,13 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 
 ## My Top Projects
 
-### Project 1: [Project Name]
+### Project 1: Library Management System]
 
-Brief description of the project, its purpose, and your role in it.
+This C code is a simple library management system that allows users to perform various operations such as adding book information, displaying book information, listing all books of a given author, listing the details of a specified book, listing the count of books in the library, and exiting the program., its purpose is to manage library system very perfectly, and my role in it is a programmer.
 
-- **GitHub Repo:** [Link to the GitHub repository]
-- **Demo/Deployed Version:** [Link to the deployed version, if applicable]
+- **GitHub Repo:** [[Link to the GitHub repository](https://github.com/cyber-aminullah/C-Programming/blob/main/library-management-system.c)]
 
-### Project 2: [Project Name]
+### Project 2: [Employee Management System]
 
 Brief description of the project, its purpose, and your role in it.
 
