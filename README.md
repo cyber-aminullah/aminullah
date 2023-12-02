@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate penetration tester and security researcher with a strong background in web application security, cryptography, OSINT, steganography, digital forensics, and network security. I hold a Bachelor's degree in Computer Science with a specialization in Cyber Security.
+I'm a passionate penetration tester and security researcher with a strong background in web application security, android application security, cryptography, OSINT, steganography, digital forensics, and network security. I hold a Bachelor's degree in Computer Science with a specialization in Cyber Security.
 
 - 🔭 I’m currently working on enhancing my skills in **Penetration Testing**.
 - 🌱 I’m always learning and staying updated on the latest security threats.
