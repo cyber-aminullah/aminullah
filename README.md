@@ -19,6 +19,8 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Steganography
 - Digital Forensics
 - Network Security
+- Reverse Engineering
+- Binary Exploitation
 
 **Programming Languages:**
 - C
@@ -32,7 +34,10 @@ I'm a passionate penetration tester and security researcher with a strong backgr
 - Metasploit Framework
 - Nessus
 - Acunetix
-
+- Nmap, Naabu
+- Sqlmap, Ghauri
+- Nuclei, Httpx, Httprobe
+  
 ## GitHub Stats
 
 ![Md Amin Ullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-aminullah&show_icons=true&theme=radical)
