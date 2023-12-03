@@ -8,7 +8,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/aminullah-sheikh"> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="Md Amin Ullah Sheikh" width="50"> </a> <a href="https://www.linkedin.com/in/aminullah-sheikh"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&color=4FC114&center=true&vCenter=true&repeat=false&width=300&lines=Md+Amin+Ullah+Sheikh" alt="Typing SVG" /></a><img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="Md Amin Ullah Sheikh" width="50">
 </p>
 
-<h3 align="center">💻 Favourite Programming Languages</h3>
+<h3 align="center">💻 Favourite Programming Languages 💻</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
 
@@ -71,8 +71,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aminullah
   - Semesters: 3
 
 - Hall of Fame:
+  - National Aeronautics and Space Administration (NASA) Security Testing
   - Louis Vuitton Security Testing
-  - Paynet Security Testing
+  - Payment Network Malaysia Security Testing
   - Synergie Security Testing
 
 - Badminton Tournaments:
